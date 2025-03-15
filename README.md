@@ -46,6 +46,13 @@ The dataset was analyzed using **Power BI for visualization** and **Excel for da
 
 ---
 
+## 📐 Data Modeling
+Below is the star schema model used in this project:
+
+![Data Model](https://github.com/Eden1029/PowerBI_CarSalesProject/blob/main/Car%20Sales%20Data%20Model.png)
+
+---
+
 ## 🔍 Key Insights & Trends  
 
 ### 1️⃣ **Total Sales Performance**  
