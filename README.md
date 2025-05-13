@@ -1,4 +1,4 @@
-# 🚗 Car Sales Analysis - Power BI & Excel Dashboard
+# 🚗 Car Sales Analysis - Power BI Dashboard
 
 ## 📌 Overview  
 This project provides an **in-depth analysis of car sales** using **Power BI and Excel**, offering **data-driven insights** into:
